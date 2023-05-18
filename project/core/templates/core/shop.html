@@ -6,8 +6,8 @@
   <div class="filters w-full lg:w-1/4">
     <h3 class="mb-3 text-xl uppercase">Search</h3>
     
-    <form class="flex">
-      <input type="text" class="p-4 bg-gray-100 border-0" placeholder="Search...">
+    <form method="get" action="." class="flex">
+      <input type="text" name="query" class="p-4 bg-gray-100 border-0" placeholder="Search...">
       <button class="p-4 bg-gray-100 border-0">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
           <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
@@ -43,7 +43,7 @@
             </svg>          
           </a>
         </div>
-        <p class="pt-1 text-gray-400"> {{product.price}} </p>
+        <p class="pt-1 text-gray-400"> ${{product.get_display_price}} </p>
       </div>
     {% endfor %}
  

@@ -24,4 +24,6 @@ Part 4 - TodoList
 Part 5 - todoList
   [x] Show categories in the sidebar
   [x] Show active category
-  [] Simple product search
+  [x] Simple product search
+
+
