@@ -20,3 +20,8 @@ Part 3 - TodoList
 Part 4 - TodoList
   [x] Create html for the category/shop Page
   [ ] Create html for the product detail page
+
+Part 5 - todoList
+  [x] Show categories in the sidebar
+  [x] Show active category
+  [] Simple product search
