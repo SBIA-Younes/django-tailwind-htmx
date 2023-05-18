@@ -21,9 +21,13 @@ Part 4 - TodoList
   [x] Create html for the category/shop Page
   [ ] Create html for the product detail page
 
-Part 5 - todoList
+Part 5 - TodoList
   [x] Show categories in the sidebar
   [x] Show active category
   [x] Simple product search
 
+Part 6 - Todolist
+  [x] Fix dynamic information in product lists
+  [x] Make product list reusable
+  [x] Show product detail page
 
