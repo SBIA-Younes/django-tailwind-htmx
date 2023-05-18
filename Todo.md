@@ -31,3 +31,7 @@ Part 6 - Todolist
   [x] Make product list reusable
   [x] Show product detail page
 
+Part 7 - Todolist
+  [x] Create django app for the cart
+  [x] Create a cart Class
+  [x] Make cart globally available
