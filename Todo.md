@@ -35,3 +35,9 @@ Part 7 - Todolist
   [x] Create django app for the cart
   [x] Create a cart Class
   [x] Make cart globally available
+
+Part 8 - Todolist
+  [x] Create view for adding to cart
+  [x] Include htmx cdn (https://unpkg.com/htmx.org@1.7.0)
+  [x] Create reusable menu cart html
+  [x] Add to cart
